@@ -1,7 +1,7 @@
 # ProjetoJPAHibernateBootcampJava
 ### Visão Geral
 
-OProjeto JPA e Hibernate com MySQL (Eclipse) fornece uma visão geral que utiliza JPA (Java Persistence API) e Hibernate para interação com um banco de dados MySQL. O projeto foi gerenciado pelo Maven. Foi criado um banco de dados de uma empresa com as entidades funcionários e departamento e que relacionam entre si.
+O Projeto JPA e Hibernate com MySQL (Eclipse) fornece uma visão geral que utiliza JPA (Java Persistence API) e Hibernate para interação com um banco de dados MySQL. O projeto foi gerenciado pelo Maven. Foi criado um banco de dados de uma empresa com as entidades funcionários e departamento e que relacionam entre si.
 
 ### Classes 
 
